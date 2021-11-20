@@ -1,0 +1,26 @@
+.cabecalhoModa{
+    background-color: #BB86FC;
+    color: white;
+    border: 1px solid white;
+}
+.bodyModa{
+    background-color: #424250;
+    color: white;
+    border: 1px solid white; 
+}
+.descModa{
+    padding: 10px;
+}
+
+
+.cabecalhoCasa{
+    background-color: #00C4B4;
+    color: white;
+    border: 1px solid white;
+}
+
+.bodyCasa{
+    background-color: #424250;
+    color: white;
+    border: 1px solid white; 
+}
